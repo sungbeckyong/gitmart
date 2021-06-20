@@ -1,0 +1,6 @@
+"scripts": {
+   "start" : "node index.js",
+   "engines":{ // engines에서 실행할때 어떤 버전의 node를 사용해야되는지 알려줍니다.
+     "node":"8.5.0"
+   }
+ }
